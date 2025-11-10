@@ -1,5 +1,4 @@
 ZEPTO-SQL-PROJECT
-Certainly! Here's a paraphrased version of your project overview and dataset description for your README file:
 
 📌 Project Overview
 This project replicates the typical workflow of a data analyst in the e-commerce or retail sector by using SQL to manage and analyze real-world product data. The focus is on building a robust inventory database, performing detailed exploratory analysis, cleaning inconsistent data, and extracting meaningful business insights.
